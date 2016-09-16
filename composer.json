@@ -1,0 +1,11 @@
+{
+  "autoload":{
+  "psr-0": {
+  	"Application\\": "src/"    
+  }
+ },
+  "require-dev" : {
+  	"phpunit/phpunit" : "*"                                    
+ }
+}
+
